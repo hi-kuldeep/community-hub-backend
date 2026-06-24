@@ -1,0 +1,428 @@
+{
+  "users": [
+    {
+      "id": "usr_test",
+      "name": "Test User",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "location": "Dubai"
+    },
+    {
+      "id": "usr_simple",
+      "name": "Simple User",
+      "email": "user@gmail.com",
+      "password": "123456",
+      "avatar": "https://randomuser.me/api/portraits/lego/1.jpg",
+      "location": "Dubai"
+    },
+    {
+      "id": "usr_alex",
+      "name": "Alex Rivera",
+      "email": "alex@example.com",
+      "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+      "location": "San Francisco",
+      "password": "444555666"
+    },
+    {
+      "id": "usr_sarah",
+      "name": "Sarah Jenkins",
+      "email": "sarah@example.com",
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "location": "London",
+      "password": "555444333"
+    },
+    {
+      "id": "usr_michael",
+      "name": "Michael Chen",
+      "email": "michael@example.com",
+      "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+      "location": "Singapore",
+      "password": "888777666"
+    },
+    {
+      "id": "usr_emily",
+      "name": "Emily Watson",
+      "email": "emily@example.com",
+      "avatar": "https://randomuser.me/api/portraits/women/5.jpg",
+      "location": "Berlin",
+      "password": "987654321"
+    },
+    {
+      "id": "usr_1782273515751",
+      "name": "User_1782",
+      "email": "User_1782@example.com",
+      "avatar": "https://randomuser.me/api/portraits/lego/3.jpg",
+      "location": "Dubai",
+      "password": "123456"
+    },
+    {
+      "id": "usr_asda",
+      "name": "Asda",
+      "email": "asda@gmail.com",
+      "password": "1234563",
+      "avatar": "https://randomuser.me/api/portraits/lego/5.jpg",
+      "location": "Dubai"
+    }
+  ],
+  "communities": [
+    {
+      "id": "1",
+      "name": "React Native Core",
+      "description": "Discuss architecture, performance, and best practices for building React Native apps at scale."
+    },
+    {
+      "id": "2",
+      "name": "Design System Alliance",
+      "description": "Shared UI tokens, component design patterns, styling strategies, and UX consistency guidelines."
+    },
+    {
+      "id": "3",
+      "name": "Fintech Mobile Builders",
+      "description": "Security, local biometrics, sandbox transactions, and compliance in mobile fintech applications."
+    },
+    {
+      "id": "4",
+      "name": "TypeScript Mastery",
+      "description": "Type safety patterns, custom validation logic, utility types, and structural type checks."
+    },
+    {
+      "id": "5",
+      "name": "iOS Swift Engineers",
+      "description": "Platform native bridges, Swift UI integrations, and performance benchmarks for iOS targets."
+    },
+    {
+      "id": "6",
+      "name": "Android Kotlin Developers",
+      "description": "JNI libraries, Gradle scripts, and direct native wrappers for Kotlin code on Android SDKs."
+    },
+    {
+      "id": "7",
+      "name": "Web3 & Decentralized Apps",
+      "description": "Cryptographic libraries, secure local storage, key chains, and decentralized RPC integrations."
+    },
+    {
+      "id": "8",
+      "name": "SaaS Architecture & Scale",
+      "description": "Multi-tenant applications, high-performance database caching, and offline-first queue queues."
+    },
+    {
+      "id": "9",
+      "name": "UI/UX Mobile Research",
+      "description": "User testing, cognitive load design, interactive micro-animations, and behavioral statistics."
+    },
+    {
+      "id": "10",
+      "name": "Local Caching Paradigms",
+      "description": "Zustand hydration, AsyncStorage write speed, MMKV benchmarks, and SQLite schemas."
+    },
+    {
+      "id": "11",
+      "name": "JavaScript Performance Guild",
+      "description": "Garbage collection details, hermes optimizations, and main thread blocking reductions."
+    },
+    {
+      "id": "12",
+      "name": "Apollo & GraphQL Hub",
+      "description": "Structured queries, fragment cache normalization, updates, and optimistic mutation results."
+    },
+    {
+      "id": "13",
+      "name": "Product Design Leaders",
+      "description": "Collaborating across engineers, alignment benchmarks, Figma imports, and mockup reviews."
+    },
+    {
+      "id": "14",
+      "name": "NextJS Server Side Hub",
+      "description": "Static generation, server actions, route structures, and middleware rendering speeds."
+    },
+    {
+      "id": "15",
+      "name": "Docker & Kubernetes Core",
+      "description": "Container pipelines, automated build scripts, image sizing, and devops setup."
+    },
+    {
+      "id": "16",
+      "name": "CyberSecurity Mobile Guild",
+      "description": "SSL pinning, code obfuscation, reverse engineering prevention, and secure inputs."
+    },
+    {
+      "id": "17",
+      "name": "Rust Systems Integrations",
+      "description": "Building native Rust crates compile-targeted for iOS/Android native execution."
+    },
+    {
+      "id": "18",
+      "name": "Machine Learning Edge",
+      "description": "TensorFlow Lite benchmarks, local model inference, and camera object detection."
+    },
+    {
+      "id": "19",
+      "name": "State Management Experts",
+      "description": "Zustand vs Redux Toolkit, mobx strategies, context performance, and selector caches."
+    },
+    {
+      "id": "20",
+      "name": "Testing & QA Automation",
+      "description": "Detox e2e testing, jest unit test mocks, coverage metrics, and pipeline runner checks."
+    },
+    {
+      "id": "21",
+      "name": "E-commerce Devs",
+      "description": "Shopping carts, local sync queues, quick payment integrations, and analytics loops."
+    },
+    {
+      "id": "22",
+      "name": "Accessibility A11y Team",
+      "description": "Screen reader alignment, accessible contrast ratios, layout sizes, and keyboard guides."
+    },
+    {
+      "id": "23",
+      "name": "Serverless Functions Core",
+      "description": "AWS Lambda, Vercel deployments, cold start reductions, and Edge database connections."
+    },
+    {
+      "id": "24",
+      "name": "SVG Vector Animation Art",
+      "description": "Complex path calculations, micro-interaction transitions, and fluid interactive maps."
+    },
+    {
+      "id": "25",
+      "name": "NoSQL Databases & Scaling",
+      "description": "MongoDB schemas, DynamoDB design keys, consistency limits, and index setups."
+    },
+    {
+      "id": "26",
+      "name": "Productivity Hacks Group",
+      "description": "Automated workspace configurations, dotfiles, keyboard mappings, and shell commands."
+    },
+    {
+      "id": "27",
+      "name": "AI Prompts Engineering",
+      "description": "Context windows, few-shot prompt templates, local LLM tooling, and temperature tuning."
+    },
+    {
+      "id": "28",
+      "name": "Micro-Frontend Foundations",
+      "description": "Module federation, styling separation, independent deployments, and shared states."
+    },
+    {
+      "id": "29",
+      "name": "CSS Grid & Flex Masterclass",
+      "description": "Modern css layout, cross browser fixes, subgrid options, and clean media targets."
+    },
+    {
+      "id": "30",
+      "name": "Developer Relational Guild",
+      "description": "Advocacy strategy, docs formatting, hackathons, and community metrics reporting."
+    }
+  ],
+  "memberships": [
+    {
+      "userId": "usr_test",
+      "communityId": "1"
+    },
+    {
+      "userId": "usr_test",
+      "communityId": "4"
+    },
+    {
+      "userId": "usr_test",
+      "communityId": "8"
+    },
+    {
+      "userId": "usr_alex",
+      "communityId": "1"
+    },
+    {
+      "userId": "usr_alex",
+      "communityId": "2"
+    },
+    {
+      "userId": "usr_alex",
+      "communityId": "4"
+    },
+    {
+      "userId": "usr_alex",
+      "communityId": "5"
+    },
+    {
+      "userId": "usr_sarah",
+      "communityId": "1"
+    },
+    {
+      "userId": "usr_sarah",
+      "communityId": "2"
+    },
+    {
+      "userId": "usr_sarah",
+      "communityId": "4"
+    },
+    {
+      "userId": "usr_sarah",
+      "communityId": "6"
+    },
+    {
+      "userId": "usr_michael",
+      "communityId": "1"
+    },
+    {
+      "userId": "usr_michael",
+      "communityId": "3"
+    },
+    {
+      "userId": "usr_michael",
+      "communityId": "8"
+    },
+    {
+      "userId": "usr_emily",
+      "communityId": "2"
+    },
+    {
+      "userId": "usr_emily",
+      "communityId": "3"
+    },
+    {
+      "userId": "usr_emily",
+      "communityId": "5"
+    },
+    {
+      "userId": "usr_emily",
+      "communityId": "8"
+    },
+    {
+      "userId": "usr_alex",
+      "communityId": "22"
+    },
+    {
+      "userId": "usr_sarah",
+      "communityId": "22"
+    },
+    {
+      "userId": "usr_michael",
+      "communityId": "22"
+    },
+    {
+      "userId": "usr_emily",
+      "communityId": "22"
+    },
+    {
+      "userId": "usr_test",
+      "communityId": "2"
+    },
+    {
+      "userId": "usr_test",
+      "communityId": "27"
+    },
+    {
+      "userId": "usr_test",
+      "communityId": "22"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-1",
+      "communityId": "1",
+      "authorId": "usr_test",
+      "title": "React Native 0.86 New Architecture",
+      "body": "Discussing concurrent rendering, synchronous layouts, and the new bridge-less mode in 0.86.",
+      "createdAt": "2026-06-24T09:00:00.000Z"
+    },
+    {
+      "id": "post-2",
+      "communityId": "1",
+      "authorId": "usr_alex",
+      "title": "Hermes GC tuning guide",
+      "body": "How to configure the Hermes garbage collector for large datasets and heavy scroll lists.",
+      "createdAt": "2026-06-24T09:15:00.000Z"
+    },
+    {
+      "id": "post-3",
+      "communityId": "2",
+      "authorId": "usr_sarah",
+      "title": "Shared UI Tokens structure",
+      "body": "Organizing styling tokens for flexible dark/light theme switching and seamless theme updates.",
+      "createdAt": "2026-06-24T08:30:00.000Z"
+    },
+    {
+      "id": "post-4",
+      "communityId": "4",
+      "authorId": "usr_test",
+      "title": "Strict type checks for forms",
+      "body": "Formik and Yup integration with strict type assertions to avoid dynamic runtime errors.",
+      "createdAt": "2026-06-24T09:20:00.000Z"
+    },
+    {
+      "id": "post-5",
+      "communityId": "1",
+      "authorId": "usr_michael",
+      "title": "Bridge-less Mode in Production",
+      "body": "Sharing real-world benchmarks after migrating our fintech app core to fully bridgeless Native modules.",
+      "createdAt": "2026-06-24T09:25:00.000Z"
+    },
+    {
+      "id": "post-6",
+      "communityId": "2",
+      "authorId": "usr_emily",
+      "title": "Figma to Code Automation",
+      "body": "An evaluation of Figma plugin generators and structural consistency across our React Native design tokens.",
+      "createdAt": "2026-06-24T09:30:00.000Z"
+    },
+    {
+      "id": "post-7",
+      "communityId": "4",
+      "authorId": "usr_sarah",
+      "title": "Template Literal Types Tricks",
+      "body": "Using template literal types to automatically assert compile-time checking on localized translation keys.",
+      "createdAt": "2026-06-24T09:35:00.000Z"
+    },
+    {
+      "id": "post-8",
+      "communityId": "8",
+      "authorId": "usr_michael",
+      "title": "Multi-tenant database isolation strategies",
+      "body": "How to structure schemas and caching locks to handle thousands of concurrent queries per workspace.",
+      "createdAt": "2026-06-24T09:40:00.000Z"
+    },
+    {
+      "id": "post-1782282282946",
+      "communityId": "22",
+      "authorId": "usr_test",
+      "title": "Jjjjjjj",
+      "body": "Bjjkjvuguiguigui",
+      "createdAt": "2026-06-24T06:24:42.946Z"
+    },
+    {
+      "id": "post-1782282469484",
+      "communityId": "22",
+      "authorId": "usr_test",
+      "title": "Test",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker and Microsoft Word including versions of Lorem Ipsum.\n\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived n",
+      "createdAt": "2026-06-24T06:27:49.485Z"
+    },
+    {
+      "id": "post-1782284402728",
+      "communityId": "22",
+      "authorId": "usr_test",
+      "title": "Qewqeqwewqe",
+      "body": "Test kuldeeep",
+      "createdAt": "2026-06-24T07:00:02.728Z"
+    },
+    {
+      "id": "post-1782284476300",
+      "communityId": "22",
+      "authorId": "usr_test",
+      "title": "Test masjid ak asks dk akd ak da sdkaksd k add",
+      "body": "Akkad jaa dil ak dikha dila dekh akd as dla da.",
+      "createdAt": "2026-06-24T07:01:16.300Z"
+    },
+    {
+      "id": "post-1782284561816",
+      "communityId": "22",
+      "authorId": "usr_test",
+      "title": "Test 123",
+      "body": "123123123123123",
+      "createdAt": "2026-06-24T07:02:41.816Z"
+    }
+  ]
+}
